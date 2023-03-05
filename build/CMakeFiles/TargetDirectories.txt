@@ -1,0 +1,3 @@
+C:/Users/hovha/ACA/PhotoFilter/build/CMakeFiles/calculator.dir
+C:/Users/hovha/ACA/PhotoFilter/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hovha/ACA/PhotoFilter/build/CMakeFiles/ZERO_CHECK.dir
