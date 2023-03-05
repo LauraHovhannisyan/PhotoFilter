@@ -1,6 +1,6 @@
 ^C:\USERS\HOVHA\ACA\PHOTOFILTER\BUILD\CMAKEFILES\DD5E1C9A5FC0D42920834CFE90F72EDD\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hovha/ACA/PhotoFilter -BC:/Users/hovha/ACA/PhotoFilter/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hovha/ACA/PhotoFilter/build/calculator.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hovha/ACA/PhotoFilter -BC:/Users/hovha/ACA/PhotoFilter/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hovha/ACA/PhotoFilter/build/PhotoFilter.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

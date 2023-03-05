@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(calculator LANGUAGES CXX)
+project(PhotoFilter LANGUAGES CXX)
 
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
@@ -12,17 +12,17 @@ find_package(Qt5 COMPONENTS Widgets)
 
 find_package(OpenCV REQUIRED)
 
-add_executable(calculator
-    button.cpp button.h
-    calculator.cpp calculator.h
+add_executable(PhotoFilter
+    CamWidget.cpp CamWidget.h
+    MainWindow.cpp MainWindow.h
     main.cpp
 )
-set_target_properties(calculator PROPERTIES
+set_target_properties(PhotoFilter PROPERTIES
     WIN32_EXECUTABLE TRUE
     MACOSX_BUNDLE TRUE
 )
 
-target_link_libraries(calculator PUBLIC
+target_link_libraries(PhotoFilter PUBLIC
     Qt::Core
     Qt::Gui
     Qt::Widgets

@@ -177,9 +177,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\hovha\ACA\PhotoFilter\build\calculator.vcxproj">
-      <Project>{A1C26FF1-FCA9-3B82-830A-0915D465EC19}</Project>
-      <Name>calculator</Name>
+    <ProjectReference Include="C:\Users\hovha\ACA\PhotoFilter\build\PhotoFilter.vcxproj">
+      <Project>{55D2A888-541D-3E82-9342-99C18385363F}</Project>
+      <Name>PhotoFilter</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

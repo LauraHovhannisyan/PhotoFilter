@@ -87,7 +87,6 @@ C:/Users/hovha/ACA/PhotoFilter/button.h
  mdp:C:/Users/hovha/ACA/PhotoFilter/build/vcpkg_installed/x64-windows/include/qt5/QtWidgets/qtwidgets-config.h
  mdp:C:/Users/hovha/ACA/PhotoFilter/build/vcpkg_installed/x64-windows/include/qt5/QtWidgets/qtwidgetsglobal.h
  mdp:C:/Users/hovha/ACA/PhotoFilter/build/vcpkg_installed/x64-windows/include/qt5/QtWidgets/qwidget.h
-C:/Users/hovha/ACA/PhotoFilter/main.cpp
 C:/Users/hovha/ACA/PhotoFilter/calculator.h
  mmc:Q_OBJECT
  mdp:C:/Users/hovha/ACA/PhotoFilter/calculator.h
@@ -173,5 +172,6 @@ C:/Users/hovha/ACA/PhotoFilter/calculator.h
  mdp:C:/Users/hovha/ACA/PhotoFilter/build/vcpkg_installed/x64-windows/include/qt5/QtWidgets/qtwidgets-config.h
  mdp:C:/Users/hovha/ACA/PhotoFilter/build/vcpkg_installed/x64-windows/include/qt5/QtWidgets/qtwidgetsglobal.h
  mdp:C:/Users/hovha/ACA/PhotoFilter/build/vcpkg_installed/x64-windows/include/qt5/QtWidgets/qwidget.h
+C:/Users/hovha/ACA/PhotoFilter/main.cpp
 C:/Users/hovha/ACA/PhotoFilter/button.cpp
 C:/Users/hovha/ACA/PhotoFilter/calculator.cpp
