@@ -105,6 +105,12 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc,argv);
     MainWindow w;
+
+    //  cv::Mat img=cv::imread("C://Users//hovha//Downloads//lena.png");
+
+    // detectEyes(img);
+    // cv::imshow("image", img);
+    // cv::waitKey(0);
     w.show();
-    return a.exec();
+    return a.exec();  
 }

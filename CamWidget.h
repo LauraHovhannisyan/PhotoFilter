@@ -9,6 +9,7 @@
 #include <opencv2/opencv.hpp>
 #include <opencv2/videoio.hpp>
 
+
 class CamWidget:public QWidget
 {
     Q_OBJECT
@@ -19,10 +20,12 @@ public:
     QLabel *m_label;
     cv::VideoCapture m_cap;
     int m_timerId;
+    bool isActive=true;
 
     void timerEvent(QTimerEvent* event);
 
 private:
     void startCapture();
+    void captureImage();
 };
 #endif

@@ -418,5 +418,5 @@ C:/Users/hovha/ACA/PhotoFilter/MainWindow.h
  mdp:C:/Users/hovha/ACA/PhotoFilter/build/vcpkg_installed/x64-windows/include/qt5/QtWidgets/qtwidgetsglobal.h
  mdp:C:/Users/hovha/ACA/PhotoFilter/build/vcpkg_installed/x64-windows/include/qt5/QtWidgets/qwidget.h
 C:/Users/hovha/ACA/PhotoFilter/CamWidget.cpp
-C:/Users/hovha/ACA/PhotoFilter/MainWindow.cpp
 C:/Users/hovha/ACA/PhotoFilter/main.cpp
+C:/Users/hovha/ACA/PhotoFilter/MainWindow.cpp
