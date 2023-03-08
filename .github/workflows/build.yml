@@ -19,15 +19,18 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [ubuntu-latest, macos-latest]
+        os: [macos-latest]
         include:
           # not enough disk space on windows
+          # needs more investigation
           #- os: windows-latest
           #  triplet: x64-windows-release
           #  build-type: Release
-          - os: ubuntu-latest
-            triplet: x64-linux-release
-            build-type: Release
+          # depends on gtk3
+          # needs more investigation
+          #- os: ubuntu-latest
+          #  triplet: x64-linux-release
+          #  build-type: Release
           - os: macos-latest
             triplet: x64-osx-release
             build-type: Release
